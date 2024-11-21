@@ -7,3 +7,5 @@ N
 tests/dead-mans-switch.test.ts,8/7/877d847a47f379d891ef7eaf8abd8017919f7710
 @
 vitest.config.js,e/0/e07f8ead7c602b60a2232e5ffe6110c6ee0d3968
+L
+contracts/asset-manager.clar,2/c/2c1ec2dd11293fa3c1a753bc80825ad0ad44f9b3
