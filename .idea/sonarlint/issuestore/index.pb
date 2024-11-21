@@ -9,3 +9,5 @@ N
 vitest.config.js,e/0/e07f8ead7c602b60a2232e5ffe6110c6ee0d3968
 L
 contracts/asset-manager.clar,2/c/2c1ec2dd11293fa3c1a753bc80825ad0ad44f9b3
+K
+tests/asset-manager.test.ts,8/8/88eac118d3ba9eedc34db6403435f0367830150a
